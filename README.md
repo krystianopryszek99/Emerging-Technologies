@@ -7,6 +7,7 @@
 ## Table Of Content
 - [Overview](#Overview)
 - [How to run the notebooks](#How-to-run-the-notebooks)
+- [Weekly Labs](#Weekly-Labs)
 - [Refrences](#Refrences)
 
 ## Overview
@@ -25,6 +26,15 @@ To run the notebooks follow the below instructions:
 1. Clone this repository onto your machine `git clone https://github.com/krystianopryszek99/Emerging-Technologies.git`
 2. Open the folder `Emerging-Technologies` and open the cmd 
 3. Run the follow command `jupyter lab`
+
+## Weekly Labs
+I have seperate repository for the weekly labs to keep this repository tidy for the assessment.
+
+[nupy-random](https://github.com/krystianopryszek99/numpy-random)
+
+[scikit-learn](https://github.com/krystianopryszek99/scikit-learn)
+
+[jupyter-notebooks-labs](https://github.com/krystianopryszek99/jupyter-notebooks-labs)
 
 ## Refrences
 
