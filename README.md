@@ -4,6 +4,10 @@
 
 # Emerging-Technologies
 
+**Name:** Krystian Opryszek
+
+**Student ID:** G00366895
+
 ## Table Of Content
 - [Overview](#Overview)
 - [How to run the notebooks](#How-to-run-the-notebooks)
@@ -53,8 +57,9 @@ Quantum-deutsch notebook
 ### Run using docker
 1. Clone this repository onto your machine `git clone https://github.com/krystianopryszek99/Emerging-Technologies.git`
 2. Open the folder `Emerging-Technologies` and open the cmd 
-3. Run the follow command `docker-compose up`
+3. Run the following command `docker-compose up`
 4. Copy the link provided and paste it into the web browser 
+5. After viewing the notebook, remove the container by the following command `docker-compose down`
 
 ## Technologies used
 Some of the technologies used in this assessement as follow:
